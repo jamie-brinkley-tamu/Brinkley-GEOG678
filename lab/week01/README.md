@@ -8,9 +8,7 @@ To do:
 
     1. Submit your Github link as text.
 
-This link will be the first step when you are registering you TAMU Git account:
-
-https://github.cloud.tamu.edu/home
+This link will be the first step when you are registering you TAMU Git account: https://github.cloud.tamu.edu/home
 
 Install Git - from https://github.com/git-guides/install-git Links to an external site.
 
