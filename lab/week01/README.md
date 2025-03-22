@@ -16,7 +16,7 @@ Mac - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git Open Termina
 
 Instructions from old webGIS class: https://github.com/tamu-edu-students/2024-TAMU-GEOG-678-WebGIS-MGsc/blob/main/labs/01.md
 
-New instructions are available in the attached PDF. 
+New instructions are available in the attached PDF 
 
 To hand in:
 
