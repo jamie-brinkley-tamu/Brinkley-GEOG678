@@ -2,6 +2,12 @@ Link to my Hawaii island lava flow web mapping application:
 
     https://experience.arcgis.com/experience/233b19be48b6488c85eba378f4bca9dc
 
+    1. Added widget for link to Volcano Alerts from the National Park Service
+    2. Added widget for link to a Volcano Tip Sheet from Ready.gov website
+
+
+
+
 Introduction:
 
 This lab will provide you experience learning about how to use ArcGIS online and how to build a simple Web Map.
