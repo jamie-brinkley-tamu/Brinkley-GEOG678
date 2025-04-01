@@ -1,14 +1,17 @@
 This lab provides you the opportunity to learn about HTML (HyperText Markup Language) and Cascading Style Sheets (CSS) by completing some CodeacademyLinks to an external site. trainings and producing your professionally-looking resume using HTML and CSS.
 
 Tasks:
+
     Task 1: Finish the online tutorial
     Task 2: Build your own resume site 
 
 
 To hand in:
+
     First, in your Github course repo:
         1. Create a lab\03 folder in your Github repository and link it to your main README.md
         2. Take a screenshot showing completion records for Code Academy courses and upload it to your lab\03 folder
         3. Open the resume.html you created in a browser and take a screenshot of your resume site and upload it to your lab\03\ folder 
+        
     Then, in Canvas:
         1. Submit the link to your Github lab\03\ folder to Canvas 
