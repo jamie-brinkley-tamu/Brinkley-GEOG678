@@ -1,6 +1,6 @@
 
 |CodeAcademy Screenshots     |
-|:------:|
+|------|
 |[HTML - Elements and Structure](Screenshot-codeacademy-lesson_1-Elements_and_Structure.png)|
 |[HTML - Tables](Screenshot-codeacademy-lesson_2-Tables.png)|
 |[CSS - Syntax and Selectors](Screenshot-codeacademy-lesson_3-Syntax_and_Selectors.png)|
