@@ -1,3 +1,12 @@
+
+|CodeAcademy Screenshots     |
+|:------:|
+|[HTML - Elements and Structure](Screenshot-codeacademy-lesson_1-Elements_and_Structure.png)|
+|[HTML - Tables](Screenshot-codeacademy-lesson_2-Tables.png)|
+|[CSS - Syntax and Selectors](Screenshot-codeacademy-lesson_3-Syntax_and_Selectors.png)|
+|[CSS - Visual Rules](Screenshot-codeacademy-lesson_4-Visual_Rules.png)|
+
+
 This lab provides you the opportunity to learn about HTML (HyperText Markup Language) and Cascading Style Sheets (CSS) by completing some CodeacademyLinks to an external site. trainings and producing your professionally-looking resume using HTML and CSS.
 
 Tasks:
