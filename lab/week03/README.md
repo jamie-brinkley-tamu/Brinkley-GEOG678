@@ -1,6 +1,9 @@
 |My Resume     |
 |------|
-|[HTML Resume](resume.html)|
+|[Resume HTML Code](resume.html)|
+|[Resume Screenshot (page 1)](Screenshot-Resume_Page_1.png)|
+|[Resume Screenshot (page 2)](Screenshot-Resume_Page_2.png)|
+|[Resume Screenshot (page 3)](Screenshot-Resume_Page_3.png)|
 <br/>
 
 |CodeAcademy Screenshots     |
