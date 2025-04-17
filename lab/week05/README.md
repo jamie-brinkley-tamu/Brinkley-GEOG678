@@ -13,6 +13,7 @@ Outcomes:
         3. dealing with events
 
 Tasks:
+
     Complete the first three online Leaflet tutorials - create working HTML pages in your repo for each of the tutorials
         1. Tutorial 1: Leaflet Quick Start Guide
         2. Tutorial 2: Leaflet on Mobile
@@ -25,6 +26,7 @@ Tasks:
         5. create an event which enables you to see the coordinates in a popup when you click on the map
 
 To Hand In:
+
     Github - 4 html files
         1. Upload 4 html files (one for each tutorial and one for custom web map) to your lab\05\ folder
     Ecampus - 4 screenshots and one link
@@ -33,6 +35,7 @@ To Hand In:
         3. Submit the link to your Github lab\05\ folder to Ecampus.
 
 Grading Rubric:
+
     1. Tutorials 45pt (15*3 pt).
     2. Custom Web Map 50pt (locate function 10pt, circle with a popup 10pt, custom icons with popups 20pt, event showing coordinates in a popup 10pt).
     3. Successfully upload files to GitHub 5pt.
