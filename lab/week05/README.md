@@ -9,6 +9,19 @@
 |------|
 |[My Custom Web Map](Custom_Map.html)|
 <br/>
+
+|Lab 5 Leaflet Tutorial Screenshots|
+|------|
+|[Tutorial 1: Screenshot](Tutorial_1_Screenshot.png)|
+|[Tutorial 2: Screenshot](Tutorial_2_Screenshot.png)|
+|[Tutorial 3: Screenshot](Tutorial_3_Screenshot.png)|
+<br/>
+
+|Lab 5 Custom Web Map Screenshots|
+|------|
+|[My Custom Web Map: Screenshot A](Custom_Web_Map_Screenshot_a.png)|
+|[My Custom Web Map: Screenshot B](Custom_Web_Map_Screenshot_b.png)|
+<br/>
 <br/>
 
 
