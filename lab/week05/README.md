@@ -1,29 +1,16 @@
-|Lab 5 Leaflet Tutorials|
-|------|
-|[Tutorial 1: Leaflet Quick Start Guide](Tutorial1.html)|
-|[Tutorial 2: Leaflet on Mobile](Tutorial2.html)|
-|[Tutorial 3: Markers With Custom Icons](Tutorial3.html)|
+|Lab 5 Leaflet Tutorials HTML|Lab 5 Leaflet Tutorial Screenshots|
+|:------:|:------:|
+|[Tutorial 1: Leaflet Quick Start Guide](Tutorial1.html)|[Tutorial 1: Screenshot](Tutorial_1_Screenshot.png)|
+|[Tutorial 2: Leaflet on Mobile](Tutorial2.html)|[Tutorial 2: Screenshot](Tutorial_2_Screenshot.png)|
+|[Tutorial 3: Markers With Custom Icons](Tutorial3.html)|[Tutorial 3: Screenshot](Tutorial_3_Screenshot.png)|
 <br/>
 
-|Custom Web Map    |
-|------|
-|[My Custom Web Map](Custom_Map.html)|
-<br/>
-
-|Lab 5 Leaflet Tutorial Screenshots|
-|------|
-|[Tutorial 1: Screenshot](Tutorial_1_Screenshot.png)|
-|[Tutorial 2: Screenshot](Tutorial_2_Screenshot.png)|
-|[Tutorial 3: Screenshot](Tutorial_3_Screenshot.png)|
-<br/>
-
-|Lab 5 Custom Web Map Screenshots|
-|------|
-|[My Custom Web Map: Screenshot A](Custom_Web_Map_Screenshot_a.png)|
-|[My Custom Web Map: Screenshot B](Custom_Web_Map_Screenshot_b.png)|
+|Custom Web Map HTML|Custom Web Map Screenshots|
+|:------:|:------:|
+|[My Custom Web Map](Custom_Map.html)|[My Custom Web Map: Screenshot A](Custom_Web_Map_Screenshot_a.png)|
+||[My Custom Web Map: Screenshot B](Custom_Web_Map_Screenshot_b.png)|
 <br/>
 <br/>
-
 
 Outcomes:
 
