@@ -7,6 +7,7 @@
 <br/>
 
 Outcomes:
+
     This lab will quickly get you started on Leaflet basics for web map applications including:
         1. setting up a Leaflet map
         2. working with markers, polylines and popups
@@ -18,6 +19,7 @@ Tasks:
         1. Tutorial 1: Leaflet Quick Start Guide
         2. Tutorial 2: Leaflet on Mobile
         3. Tutorial 3: Markers With Custom Icons
+
     Build a custom web map that integrates each of the tutorials
         1. give your webpage a title e.g. "Yourname First Web Map"
         2. zoom the map view to the detected location using locate method
@@ -29,6 +31,7 @@ To Hand In:
 
     Github - 4 html files
         1. Upload 4 html files (one for each tutorial and one for custom web map) to your lab\05\ folder
+
     Ecampus - 4 screenshots and one link
         1. Open the Custom_Map.html you created in a browser and take a screenshot of your custom map and upload it to Ecampus
         2. Take screenshots of your online tutorials and send them to Ecampus.
