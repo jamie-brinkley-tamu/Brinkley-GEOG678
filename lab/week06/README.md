@@ -6,7 +6,7 @@
 
 |Custom Web Map HTML|Custom Web Map Screenshots|
 |:------:|:------:|
-|[My Custom Web Map](Custom_Map.html)|[My Custom Web Map: Screenshot A](Screenshot_Custom_Map.png)|
+|[My Custom Web Map](Custom_Map.html)|[My Custom Web Map: Screenshot](Screenshot_Custom_Map.png)|
 <br/>
 <br/>
 
