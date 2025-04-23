@@ -1,6 +1,7 @@
 |Lab 6 Leaflet Tutorials HTML|Lab 6 Leaflet Tutorial Screenshots|
 |:------:|:------:|
 |[Tutorial 1: Using GeoJSON with Leaflet](Tutorial1.html)|[Tutorial 1: Screenshot](Screenshot_Tutorial_1.png)|
+|[Tutorial 2: Interactive Choropleth Map](Tutorial2.html)|[Tutorial 2: Screenshot](Screenshot_Tutorial_2.png)|
 <br/>
 
 |Custom Web Map HTML|Custom Web Map Screenshots|
