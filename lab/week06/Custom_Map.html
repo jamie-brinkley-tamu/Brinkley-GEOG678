@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Jamie Brinkley's Custom Map of TAMU</title>
+    <title>Jamie Brinkley's TAMU Map</title>
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
     integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
@@ -11,7 +11,6 @@
     <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
     integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
     crossorigin=""></script>
-
 
     <style>
       html, body {
@@ -29,23 +28,21 @@
           height: 600px;
           width: 800px;
       }
-  
+
       .info {
-          padding: 6px 8px;
-          font: 14px/16px Arial, Helvetica, sans-serif;
-          background: white;
-          background: rgba(255,255,255,0.8);
-          box-shadow: 0 0 15px rgba(0,0,0,0.2);
-          border-radius: 5px;
-      }
-      .info h4 {
-          margin: 0 0 5px;
-          color: #777;
-      }
-  
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255,255,255,0.8);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+        }
+        .info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
   
     </style>
-
 
   </head>
   <body>
@@ -58,7 +55,7 @@
 
     <script>
 
-    var map = L.map('map').setView([30.6084, -96.3402], 15);
+    var map = L.map('map').setView([30.6106, -96.3482], 15);
 
     var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
@@ -67,11 +64,44 @@
 
     L.geoJson(tamu).addTo(map);
 
+    var info = L.control();
+
+    info.onAdd = function (map) {
+        this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+        this.update();
+        return this._div;
+    };
+
+    // method that we will use to update the control based on feature properties passed
+    info.update = function (props) {
+        this._div.innerHTML = '<h4>Building Name</h4>' +  (props ?
+            '<b>' + props.BldgName + '</b><br />' + props.BldgAbbr 
+            : 'Hover over a building');
+    };
+
+    info.addTo(map);
+
+    // Create a legend control
+    var myStyle = {
+        "color": "#800000",
+        "weight": 5,
+        "opacity": 0.65
+    };
+    L.geoJSON(tamu, {
+        style: myStyle
+    }).addTo(map);
+
+
+    function getColor(d) {
+        '#800000' ;
+    }
+
+
     function style(feature) {
         return {
             fillColor: getColor(feature.properties.density),
-            weight: 2,
-            opacity: 1,
+            weight: 5,
+            opacity: 0.25,
             color: 'white',
             dashArray: '3',
             fillOpacity: 0.7
@@ -93,17 +123,16 @@
         info.update(layer.feature.properties);
     }
 
-    	/* global statesData */
+    	/* global tamu data */
 	    geojson = L.geoJson(tamu, {
 		    style,
 		    onEachFeature
 	    }).addTo(map);
 
-        function resetHighlight(e) {
+    function resetHighlight(e) {
 		geojson.resetStyle(e.target);
 		info.update();
 	}
-
 
     function zoomToFeature(e) {
         map.fitBounds(e.target.getBounds());
@@ -116,7 +145,6 @@
             click: zoomToFeature
         });
     }
-
 
     </script>
 </body>
