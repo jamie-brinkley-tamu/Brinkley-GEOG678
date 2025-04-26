@@ -1,6 +1,7 @@
-|Lab 7 Story Maps|
-|:------:|:------:|
-|[3D Storymap about TAMU Link](https://storymaps.arcgis.com/stories/96126e43a93649dbaf9dcf65d6a5a90e)|[Screenshot](Screenshot_Lab_7_3D.png)|
+|Lab 7 3D Storymap about TAMU|
+|------|
+|[3D Storymap about TAMU Link](https://storymaps.arcgis.com/stories/96126e43a93649dbaf9dcf65d6a5a90e)|
+|[Screenshot](Screenshot_Lab_7_3D.png)|
 <br/>
 <br/>
 
