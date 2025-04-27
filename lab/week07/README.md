@@ -4,6 +4,14 @@
 |[Screenshot A](Screenshot_Lab_7_3D_1.png)|
 |[Screenshot B](Screenshot_Lab_7_3D_2.png)|
 <br/>
+
+|Lab 7 2D Storymap|
+|------|
+|[2D Storymap](https://storymaps.arcgis.com/stories/79d5eff294fe4d19b0c7204ae7904966)|
+|[Screenshot A](Screenshot_Lab_7_2D_1.png)|
+|[Screenshot B](Screenshot_Lab_7_2D_2.png)|
+|[Screenshot C](Screenshot_Lab_7_2D_3.png)|
+<br/>
 <br/>
 
 In this Lab, you will construct two StoryMaps.  The first is a two dimensional StoryMap about a topic of interest to you.  The second is a 3D StoryMap abut the Texas A&M Campus.  This will offer you the opportunity to perhaps learn a bit more about our the physical A&M Campus and its history.   Our campus is approximately 5,200 acres which makes it the largest in the state and the size of our student population and supporting infrastructure makes its management something akin to managing a small city, so GIS is an important tool.
