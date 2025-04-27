@@ -7,7 +7,7 @@
 
 |Lab 7 2D Storymap|
 |------|
-|[2D Storymap](https://storymaps.arcgis.com/stories/79d5eff294fe4d19b0c7204ae7904966)|
+|[2D Storymap Link](https://storymaps.arcgis.com/stories/79d5eff294fe4d19b0c7204ae7904966)|
 |[Screenshot A](Screenshot_Lab_7_2D_1.png)|
 |[Screenshot B](Screenshot_Lab_7_2D_2.png)|
 |[Screenshot C](Screenshot_Lab_7_2D_3.png)|
