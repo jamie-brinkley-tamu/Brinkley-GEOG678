@@ -7,12 +7,17 @@
 |:------:|:------:|
 |[HighCharts html Link](HighCharts.html)|[HighCharts Screenshot](Screenshot_HighCharts_Task.png)|
 <br/>
+
+|Lab 8 Dashboard Link|Lab 8 Dashboard Screenshots|
+|:------:|:------:|
+|[Dashboard Link](https://tamu.maps.arcgis.com/apps/dashboards/26dc9a7eef1243139ae97a0b1ebe8521)|[Dashboard Screenshot](Screenshot_Dashboard_Tutorial.png)|
+<br/>
 <br/>
 
 To hand in:
 
   Step 1: in Github
-  
+
         1. Create a lab\08\ folder in your Github repository and link it to your main README.md
 
         2. Open the dashboard you created in a browser and take a screenshot of it. Upload your screenshot and your dashboard link to your lab\08\ folder (one screenshot, one link) 
