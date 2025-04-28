@@ -12,6 +12,7 @@
 To hand in:
 
   Step 1: in Github
+  
         1. Create a lab\08\ folder in your Github repository and link it to your main README.md
 
         2. Open the dashboard you created in a browser and take a screenshot of it. Upload your screenshot and your dashboard link to your lab\08\ folder (one screenshot, one link) 
@@ -24,5 +25,5 @@ To hand in:
               c. Three webpage screenshots of Dashboard, D3.html, and HighCharts.html
 
   Step 2: in Canvas:
-  
+
         1. Submit the link of your Github lab\08\ folder to this page on Canvas.
