@@ -10,7 +10,7 @@
 
 |Lab 8 Dashboard Link|Lab 8 Dashboard Screenshots|
 |:------:|:------:|
-|[Dashboard Link](https://tamu.maps.arcgis.com/apps/dashboards/26dc9a7eef1243139ae97a0b1ebe8521)|[Dashboard Screenshot](Screenshot_Dashboard_Tutorial.png)|
+|[Dashboard Link](http://tamu.maps.arcgis.com/apps/dashboards/26dc9a7eef1243139ae97a0b1ebe8521)|[Dashboard Screenshot](Screenshot_Dashboard_Tutorial.png)|
 <br/>
 <br/>
 
