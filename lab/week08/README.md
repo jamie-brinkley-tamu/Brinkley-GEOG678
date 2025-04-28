@@ -1,9 +1,9 @@
-|Lab 8 D3 HTML|Lab 8 D3 Screenshots|
+|Lab 8 TAMU Temps D3 HTML|Lab 8 TAMU Temps D3 Screenshot|
 |:------:|:------:|
-|[D3 html Link](D3.html)|[D3 Screenshot](Screenshot_D3_Task.png)|
+|[TAMU Temps D3 html Link](TamuTempsD3.html)|[TAMU Temps D3 Screenshot](Screenshot_TAMU_Temps_D3.png)|
 <br/>
 
-|Lab 8 TAMU Temps HighCharts HTML|Lab 8 TAMU Temps HighChartsScreenshots|
+|Lab 8 TAMU Temps HighCharts HTML|Lab 8 TAMU Temps HighCharts Screenshot|
 |:------:|:------:|
 |[TAMU Temps HighCharts html Link](TamuTempsHighCharts.html)|[TAMU Temps HighCharts Screenshot](Screenshot_TAMU_Temps_HighCharts.png)|
 <br/>
@@ -11,11 +11,6 @@
 |Lab 8 Dashboard Link|Lab 8 Dashboard Screenshots|
 |:------:|:------:|
 |[Dashboard Link](https://tamu.maps.arcgis.com/apps/dashboards/26dc9a7eef1243139ae97a0b1ebe8521)|[Dashboard Screenshot](Screenshot_Dashboard_Tutorial.png)|
-<br/>
-
-|Lab 8 HighCharts HTML|Lab 8 HighCharts Screenshots|
-|:------:|:------:|
-|[HighCharts html Link](HighCharts.html)|[HighCharts Screenshot](Screenshot_HighCharts_Task.png)|
 <br/>
 <br/>
 
