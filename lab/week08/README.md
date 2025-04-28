@@ -3,14 +3,19 @@
 |[D3 html Link](D3.html)|[D3 Screenshot](Screenshot_D3_Task.png)|
 <br/>
 
-|Lab 8 HighCharts HTML|Lab 8 HighCharts Screenshots|
+|Lab 8 TAMU Temps HighCharts HTML|Lab 8 TAMU Temps HighChartsScreenshots|
 |:------:|:------:|
-|[HighCharts html Link](HighCharts.html)|[HighCharts Screenshot](Screenshot_HighCharts_Task.png)|
+|[TAMU Temps HighCharts html Link](TamuTempsHighCharts.html)|[TAMU Temps HighCharts Screenshot](Screenshot_TAMU_Temps_HighCharts.png)|
 <br/>
 
 |Lab 8 Dashboard Link|Lab 8 Dashboard Screenshots|
 |:------:|:------:|
 |[Dashboard Link](https://tamu.maps.arcgis.com/apps/dashboards/26dc9a7eef1243139ae97a0b1ebe8521)|[Dashboard Screenshot](Screenshot_Dashboard_Tutorial.png)|
+<br/>
+
+|Lab 8 HighCharts HTML|Lab 8 HighCharts Screenshots|
+|:------:|:------:|
+|[HighCharts html Link](HighCharts.html)|[HighCharts Screenshot](Screenshot_HighCharts_Task.png)|
 <br/>
 <br/>
 
