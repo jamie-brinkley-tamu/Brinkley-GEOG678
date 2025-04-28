@@ -26,20 +26,16 @@
     <script>
          var data = [30, 86, 168, 281, 303, 365];
 
-d3.select("#chart")
-.selectAll("div")
-.data(data)
-    .enter()
-    .append("div")
-    .style("width", function(d) { return d + "px"; })
-    .text(function(d) { return d; });
+        d3.select("#chart")
+        .selectAll("div")
+        .data(data)
+            .enter()
+            .append("div")
+            .style("width", function(d) { return d + "px"; })
+            .text(function(d) { return d; });
     </script>
 
-<div style="width: 86;">86</div>
-
-
-   
-
-
+    <div style="width: 86;">86</div>
+    
   </body>
 </html>
